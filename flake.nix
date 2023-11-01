@@ -14,6 +14,10 @@
           path = ./two/rust;
           description = "Rust thunderbird two template";
         };
+        elixir = {
+          path = ./two/elixir;
+          description = "Elixir thunderbird two template";
+        };
         ts = {
           path = ./two/ts;
           description = "Typescript and node thunderbird two template";
