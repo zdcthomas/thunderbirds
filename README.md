@@ -1,3 +1,3 @@
 # thunderbirds
 
-![thunderbirds countdown](https://tenor.com/by6kL.gif)
+![thunderbirds countdown](./assets/thunderbirds-countdown.gif)
